@@ -1,0 +1,50 @@
+@import url("reset.css");
+/* General */
+h1 { font-size: 160%; }
+h2 { font-size: 150%; }
+h1, h2 { padding: 10px; }
+p { padding: 5px; }
+a { color: #C00; text-decoration: none; }
+a:hover { text-decoration: underline; }
+/* IDs */
+#container { width: 100%; max-width: 1055px; margin: 0 auto; }
+#container fieldset { margin-bottom: 10px; }
+#container fieldset, #container fieldset legend { border: #000 1px solid; border-radius: 8px; padding: 10px; }
+#container fieldset legend { margin: auto; }
+#menu, #footer { max-width: 955px; margin: 0 auto; }
+#menu { overflow: hidden; }
+#menu ul.main { float: left; }
+#menu ul.main li { background: #999; transition: background .3s ease-in-out; }
+#menu ul.main li:hover { background: #CCC; }
+#menu ul.main li a { padding: 10px 15px; text-decoration: none; }
+#menu ul.main li:first-child { border-bottom-left-radius: 4px; }
+#menu ul.main li:last-child { border-bottom-right-radius: 4px; }
+#menu ul.languages { float: right; }
+#menu ul.languages a { opacity: .6; transition: opacity .3s ease-in-out; }
+#menu ul li { display: inline-block; }
+#menu ul li a { display: block; padding: 5px; }
+#menu ul li a:hover { opacity: 1; }
+#footer { text-align: center; }
+/* Formular */
+.formular { max-width: 360px; padding: 45px; margin: auto; border: #000 1px solid; border-radius: 12px; }
+.formular h1 { text-align: center; margin-top: 0; margin-bottom: 10px; }
+.formular .group { margin-bottom: 5px; }
+.formular input { padding: 15px; width: 100%; box-sizing: border-box; background: #f2f2f2; }
+.formular button { text-transform: uppercase; background: #4CAF50; width: 100%; padding: 15px; color: #fff; cursor: pointer; transition: all .3s ease-in-out; }
+.formular button:hover { background: #43A047; }
+.formular input, .formular button { font-family: "Roboto", sans-serif; outline: none; border: 0; }
+/* Game related */
+h2.game_title { font-weight: bold; }
+.gameinfo { background-repeat: no-repeat; background-size: contain; background-position-x: 50%; background-color: #CCC; border-radius: 8px; }
+.info { text-align: center; opacity: .8; padding: 10px; margin: 15px 0; }
+.info, .achievement { background: #fff; }
+.achievement { float: left; margin: 5px; padding: 10px; border: #000 1px solid; opacity: .8; transition: opacity .3s ease-in-out; }
+.achievement:hover { opacity: 1; }
+.achievement h3 { position: relative; top: -10px; left: -10px; width: calc(100% + 20px); font-weight: bold; padding: 5px 0; background: #CCC; }
+.achievement h3, .achievement p { text-align: center; }
+.achievement img { display: block; margin: auto; }
+/* Helper class */
+.clear { clear: both; }
+@media screen and (max-width: 445px) {
+.gameinfo { background-repeat: repeat-y; }
+}
