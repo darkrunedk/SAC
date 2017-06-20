@@ -3,7 +3,7 @@ SAC or Steam Achievement Checker is a website that displays the remaining acheve
 
 # Where can I find the website?
 
-The website is found as http://www.sac.darkrune.dk/
+The website is found at [SAC Homepage](http://www.sac.darkrune.dk/)
 
 # How do I use SAC?
 
