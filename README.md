@@ -1,5 +1,5 @@
 # SAC
-SAC or Steam Achievement Checker is a website that displays the remaining achevements, that a User still needs to achieve.
+SAC or Steam Achievement Checker is a website that displays the remaining achevements, that a User still needs to achieve. Not all games works with SAC but some do.
 
 # Where can I find the website?
 
