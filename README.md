@@ -14,3 +14,5 @@ An example could be http://steamcommunity.com/profiles/SOME NUMBERS/ where the p
 You will also need the game's id, which can be found in the url on the game's page in Steam. It the part of the url that is purely numbers.
 
 An example could be http://store.steampowered.com/app/252950/Rocket_League/, which is Rocket League. The game's id would be 252950.
+
+More information can be found at [SAC's FAQ](http://www.sac.darkrune.dk/faq.php) page.
