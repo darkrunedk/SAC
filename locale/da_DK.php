@@ -15,6 +15,7 @@ $lang = array(
 	"MADE_BY" => "Lavet af",
 	"USER" => "Brugeren",
 	"HTTP_ERROR" => "Steam har forbindelsesproblemer (%d) lige nu. Prøv igen senere...",
+	"HTTP_ERROR_302" => "Spillet understøtter formentlig ikke achievements... Hvis spillet ikke er udkommet endnu, så kan det måske være årsagen til det.",
 	"WHAT_IS_SAC_FAQ" => "Hvad er SAC?",
 	"WHAT_IS_SAC_ANSWER" => "SAC er en forkortelse af Steam Achievement Checker, hvilket meget godt beskriver hvad SAC gør og kan bruges til.",
 	"SAVE_INFO_FAQ" => "Gemmer du vores konto informationer?",

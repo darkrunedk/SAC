@@ -15,6 +15,7 @@ $lang = array(
 	"MADE_BY" => "Made by",
 	"USER" => "The user",
 	"HTTP_ERROR" => "Steam has some connection issue (%d) at the moment. Try again later...",
+	"HTTP_ERROR_302" => "The game probably doesn't support achievements... If the game isn't out yet, then check back later to see if that was the issue.",
 	"WHAT_IS_SAC_FAQ" => "What is SAC?",
 	"WHAT_IS_SAC_ANSWER" => "SAC is short for Steam Achievement Checker, which explains quite nicely what it does and how it can be used.",
 	"SAVE_INFO_FAQ" => "Do you save any account info?",
