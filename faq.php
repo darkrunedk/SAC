@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title><?php echo $lang["MENU_FAQ"] ?> - SAC</title>
-	
+
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
@@ -24,6 +24,11 @@
 <fieldset id="do_you_save_our_info">
 <legend><?php echo $lang["SAVE_INFO_FAQ"]; ?></legend>
 <p><?php echo $lang["SAVE_INFO_ANSWER"]; ?></p>
+</fieldset>
+
+<fieldset>
+<legend><?php echo $lang["WHAT_IS_APP_ID"]; ?></legend>
+<p><?php echo $lang["WHAT_IS_APP_ID_ANSWER"]; ?></p>
 </fieldset>
 
 <footer id="footer">
