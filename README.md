@@ -1,14 +1,14 @@
 # Discontinued
 Due to changes made by Valve/Steam, resulting in the API no longer working means the project is not discontinued.
 
-# SAC
+## SAC
 SAC or Steam Achievement Checker is a website that displays the remaining achevements, that a User still needs to achieve. Not all games works with SAC but some do.
 
-# Where can I find the website?
+## Where can I find the website?
 
 The website can be visited here: [SAC Homepage](http://www.sac.darkrune.dk/)
 
-# How do I use SAC?
+## How do I use SAC?
 
 You need to either write the users id or custom url. A custom url can be made under Edit profile → Custom Url. The profile id of a steam user can be found at the url.
 
