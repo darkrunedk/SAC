@@ -1,4 +1,4 @@
-#Discontinued
+# Discontinued
 Due to changes made by Valve/Steam, resulting in the API no longer working means the project is not discontinued.
 
 # SAC
