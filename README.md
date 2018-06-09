@@ -1,5 +1,5 @@
 # Discontinued
-Due to changes made by Valve/Steam, resulting in the API no longer working means the project is not discontinued.
+Due to changes made by Valve/Steam, resulting in the API no longer working means the project is discontinued.
 
 ## SAC
 SAC or Steam Achievement Checker is a website that displays the remaining achevements, that a User still needs to achieve. Not all games works with SAC but some do.
